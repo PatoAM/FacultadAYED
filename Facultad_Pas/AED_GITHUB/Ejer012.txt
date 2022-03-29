@@ -1,0 +1,18 @@
+// Para los siguientes enunciados, identifique la acción principal y el objeto sobre el cual se realiza esa acción. Descomponga la acción en acciones más elementales, estableciendo los estados antes y después de cada una de ellas.
+
+//     Dadas las variables C y D, se desea intercambiar sus valores. Originalmente C vale 18 y D es igual a la mitad de C.
+//     En la oficina de correos un empleado controla la correspondencia para colocarle la tarifa. La misma se determina en función del tipo de carta, del destino y del medio por el cual se la envía. Los tipos pueden ser "simple", "expresa" o "certificada"; el destino puede ser "interior" o "exterior"; y los medios pueden ser "aérea" o "terrestre".
+//     Realizar los preparativos para mirar una película de video, teniendo en cuenta que aún no se la alquiló.
+//     Preparar mate amargo.
+//     Una familia decide acampar el fin de semana.
+//     Venir a la facultad en colectivo.
+
+
+// 1. La variable C vale 18 y la variable D 9 inicialmente. Despues del algoritmo C vale 9 y D 18.
+// 2. El empleado recibe la correspondencia sin tipo, destino o medios definidos como input y salen con un tipo, un destino y un medio ingresado por el empleado. Muy probablemente de un campo selector multiple para anular errores de tipeo e inconsistencia. 
+// 3. Buscar y elegir la pelicula deseada. Una vez hecho obtener una maquina que permita viajes en el tiempo, volver a los 90' e ir a un videoclub. Alquilar el vhs deseado, mirarla y volver al presente.
+// 4. Buscar un lugar para acampar y coordinar una fecha, comprar viveres y items utiles para acampar. Vease una carpa en caso de quedarse al aire libre o carbon para hacer un asado. Pagar la nafta. 
+// 5. Obtener una sube y tenerla cargada. Una vez poseedor de una sube cargada o bien con benificios para estudiantes presentarse a la parada de la linea indicada para el destino al menos x minutos antes. (Estimando el tiempo que se tarda en viajar y la probable espera). Abordar el colectivo y pagar con la sube, chequear el precio y saldo restante para operaciones siguientes. Mirar los alrededores para controlar cuando se llegue al destino o parada mas cerca del destino. Una vez estemos cerca de la parada prepararce para bajar a destino revisando que no nos olvidemos ninguna pertenencia valiosa y bajar finalemente una vez alcanzada la parada. 
+
+
+

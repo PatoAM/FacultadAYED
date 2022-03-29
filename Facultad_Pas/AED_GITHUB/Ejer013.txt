@@ -1,0 +1,19 @@
+Ejercicio 0.1.3
+
+Suponga que los estados iniciales de K, Q y DOS son 4, 7 y 10. Especifique cuáles son los estados iniciales y finales de cada una de las variables después de las siguientes asignaciones.
+
+K= 4; Q = 7 ; DOS= 10;                                ----> RESPUESTAS
+
+    TOT := K*(DOS-Q)                                    --> TOT = 12
+    D := DOS/K + Q * 2                                  --> D = 16.5
+    E := TRUNC (Q*0,8 - DOS/3)                          --> e = 2
+    R := REDOND (Q/(3/K))                               --> r = 10
+    K := ABSO (K-Q) + 2 * DOS                           --> K = 23
+
+    RESULTADO := REDOND (ABSO((K-DOS)/Q)+TRUNC(1,5))    --> RESULTADO = 
+    resultado := redon(Abso((4-10)/7)) + TRUNC (1.5))
+    resultado := redon(abso((-0.85))) + 1
+    resultado := redon(0.85 + 1); resultado:=redond(1.85);
+    resultado := 2;
+    
+
